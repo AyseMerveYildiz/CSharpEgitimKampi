@@ -29,8 +29,12 @@
 ####  Bu projede, Bu projede, metotların tanımlanması ve kullanımı üzerine çalışarak, farklı türdeki metotların programlama süreçlerindeki rolünü kavradım. *Void* (geriye değer döndürmeyen) metotlar ile belirli işlemleri gerçekleştirdim. Ayrıca, geriye değer döndüren metotları parametreli ve parametresiz biçimde kullanarak hesaplama işlemleri gerçekleştirdim. Kullanıcıdan alınan girdilere dayalı olarak çalışan uygulamalar geliştirerek, metotların yeniden kullanılabilirliği ve esnekliği konusunda deneyim kazandım. :books:
 
 
-## :sparkles: Proje 6 : DataBase Project
+## :sparkles: Proje 9 : DataBase Project
 ####  Bu projede, **SQL** kullanarak veritabanı bağlantısı oluşturma ve veritabanından veri çekme işlemlerini gerçekleştirdim. _SqlConnection_ sınıfı aracılığıyla veritabanına bağlantı sağlama, _SqlCommand_ sınıfı ile dinamik ve statik SQL sorguları oluşturup çalıştırma süreçlerini öğrendim. Bu bağlamda, veritabanı erişimi, veri manipülasyonu ve sorgu yürütme mekanizmalarının temel prensiplerini deneyimledim. :bar_chart:
+
+## :sparkles: Proje 10 : DataBase CRUD
+####  Bu projede, temel CRUD (Create, Read, Update, Delete) işlemleri gerçekleştirilerek bir veritabanıyla etkin bir şekilde iletişim kurulmuştur. SQL bağlantısı kullanılarak ürün ve kategori verilerinin eklenmesi, güncellenmesi, listelenmesi ve silinmesi sağlanmıştır. Proje, SQL komutlarının kullanımıyla veritabanı yönetimi süreçlerini derinlemesine anlama ve uygulama fırsatı sunmuştur. Ürün bilgileri üzerinde yapılan düzenlemeler, verilerin daha esnek ve dinamik bir yapıya kavuşturulmasına katkıda bulunmuştur. Bu sayede, veri manipülasyonu ve sorgulama becerileri önemli ölçüde geliştirilmiştir.
+
 
 
 
