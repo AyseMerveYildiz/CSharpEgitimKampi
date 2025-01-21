@@ -18,7 +18,7 @@ namespace _10_DatabaseCrud
             Console.WriteLine("*****Menü Sipariş İşlem Paneli*****");
             Console.WriteLine();
 
-            Console.WriteLine("----------------------------------------");
+            Console.WriteLine("--------------------------------------");
 
             #region Kategori Ekleme
             //Console.Write("Eklemek İstediğiniz Kategori Adı: ");
